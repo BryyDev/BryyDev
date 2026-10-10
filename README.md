@@ -1,32 +1,38 @@
-<div align="center">
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-  <a href="https://github.com/SEU-USUARIO-GITHUB">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F3FF&center=true&vcenter=true&random=false&width=750&height=50&lines=%3C%2F%3E+INITIALIZING+JARVIS_OS_v4.0.9...;SYSTEM+ONLINE%3A+WELCOME+TO+MY+HUB;BACK-END+DEVELOPER+%7C+JAVA+%26+PYTHON;BUILDING+THE+FUTURE+WITH+AI+%26+CODE" alt="Typing Banner" />
-  </a>
+###
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF66?style=for-the-badge&logo=opsgenie&logoColor=black" alt="Status" />
-    <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-00F3FF?style=for-the-badge&logo=1password&logoColor=black" alt="Security" />
-    <img src="https://img.shields.io/badge/LOCATION-SAO_PAULO_BR-FF0055?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  </p>
-
-{
-  "mission_01": "Architect robust microservices with Java & Spring Boot",
-  "mission_02": "Integrate Artificial Intelligence models into backend workflows",
-  "mission_03": "Master cloud deployment & containerization (Docker/K8s)",
-  "status": "IN_PROGRESS [87%]"
-}
-
-
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
 </div>
 
----
+###
 
-### 📡 System Protocols // About Me
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
-```yaml
-ALIAS       : Yanz / Bryant
-CORE FOCUS  : Software Engineering, AI Integration & Java Back-End
-SPECIALTY   : High-performance APIs, Data Structures & Automation
-CURRENT HUB : Santander Bootcamp AI Java Back-End & Technical Chemistry
-HUD STATUS  : Optimizing algorithms & building scalable solutions
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=BryyDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/BryyDev/BryyDev/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BryyDev/BryyDev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BryyDev/BryyDev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BryyDev/BryyDev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###

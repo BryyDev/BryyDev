@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="left">Contribuição</h2>
+<h2 data-importer="text" align="left">Ferramentas</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="left">Contribuição</h2>
+<h2 data-importer="text" align="left">Sequencia</h2>
 
 ###
 

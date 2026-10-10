@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Sou desenvolvedor Front-end, cursando o transforme-se da Serasa experian.<br><br>Gosto muito de criar e gerenciar aplicações para usuarios, unindo tecnologias afim de uma melhor comunicação</p>
+<p data-importer="text" align="left">Sou <strong>desenvolvedor Front-end</strong>, cursando o transforme-se da Serasa experian.<br><br>Gosto muito de criar e gerenciar aplicações para usuarios, unindo <strong> tecnologias </strong> afim de uma melhor comunicação</p>
 
 ###
 
@@ -24,7 +24,6 @@
 
 ###
 
-<br clear="both">
 
 <h2 data-importer="text" align="left">Ferramentas</h2>
 
@@ -42,7 +41,6 @@
 
 ###
 
-<br clear="both">
 
 <h2 data-importer="text" align="left">Contribuição</h2>
 
@@ -56,7 +54,6 @@
 
 ###
 
-<br clear="both">
 
 <h2 data-importer="text" align="left">Sequencia</h2>
 

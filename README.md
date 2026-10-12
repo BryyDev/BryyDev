@@ -2,7 +2,7 @@
 
 **`Dev Front-end`**
 
-Olá! Sou Bryant Junior (**Yanz**), um Desenvolvedor Front-end de 18 anos apaixonado por tecnologia e solucionar problemas. Tenho experiência na construção de landing pages e aplicações completas, utilizando desde a prototipagem no Figma até a implementação em código. Busco constantemente evoluir minhas habilidades na criação de soluções criativas e eficientes.
+Olá! me chamo Bryant, um Desenvolvedor Front-end de 18 anos apaixonado por tecnologia e solucionar problemas. Tenho experiência na construção de landing pages e aplicações completas, utilizando desde a prototipagem no Figma até a implementação em código. Busco constantemente evoluir minhas habilidades na criação de soluções criativas e eficientes.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bryant-junior/" target="_blank">

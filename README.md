@@ -1,6 +1,9 @@
-# 💻 Bryant
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=%F0%9F%92%BB+Bryant+Dev;%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB+Dev+Front-end+)](https://git.io/typing-svg)
 
-**`Dev Front-end`**
+<p>
+  <img src="https://img.shields.io/badge/S%C3%A3o_Paulo-BR-161b22?style=flat-square&logo=googlemaps&logoColor=white" alt="São Paulo, BR"/>
+  <img src="https://img.shields.io/badge/Front--end-Developer-161b22?labelColor=555555&style=flat-square&logo=codeforces&logoColor=white" alt="front-end Developer" />
+</p>
 
 Olá! me chamo Bryant, um Desenvolvedor Front-end de 18 anos apaixonado por tecnologia e solucionar problemas. Tenho experiência na construção de landing pages e aplicações completas, utilizando desde a prototipagem no Figma até a implementação em código. Busco constantemente evoluir minhas habilidades na criação de soluções criativas e eficientes.
 

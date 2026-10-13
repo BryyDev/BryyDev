@@ -17,7 +17,7 @@ Olá! me chamo Bryant, um Desenvolvedor Front-end de 18 anos apaixonado por tecn
 ## 📊 Github Stats  
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryyDev&theme=dracula&hide_border=false&border_radius=5&locale=pt-br&show_icons=true&custom_title=Estatísticas" height="150" alt="Estatísticas do GitHub" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryyDev&layout=compact&theme=dracula&hide_border=false&border_radius=5&custom_title=Linguagens%20mais%20utilizadas&locale=pt-br" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BryyDev&theme=discord_old_blurple&hide_border=false&border_radius=5&locale=pt-br&show_icons=true&custom_title=Estatísticas" height="150" alt="Estatísticas do GitHub" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryyDev&layout=compact&theme=discord_old_blurple&hide_border=false&border_radius=5&custom_title=Linguagens%20mais%20utilizadas&locale=pt-br" height="150" alt="Linguagens mais usadas" />
 </div>
   
 <br>

@@ -50,8 +50,6 @@ Atualmente, sigo evoluindo minhas habilidades em desenvolvimento web e estou sem
 
 ## 🕹️ Gráfico de contribuições
 
-Acompanhe abaixo meu histórico de contribuições no GitHub em uma visualização estilo Pac-Man.
-
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BryyDev/BryyDev/output/pacman-contribution-graph-dark.svg" />
